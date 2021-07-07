@@ -15,12 +15,20 @@ ul.social-network{
  }
 
  .fa-linkedin-square:hover{
-     color:#0e76a8;
+     color:#378fe9;
  }
- .fa-instagram:hover{
-     color:#9400d3 ;
- }
+ .fa-instagram:hover {
+    background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
 
  .fa-github-square:hover{
      color: #171515 ;
+ }
+ .bg-site{
+     background-color: #353b48;
+ }
+ .bg-copy{
+     background-color: #2f3640;
  }

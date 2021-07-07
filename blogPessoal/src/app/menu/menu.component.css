@@ -5,3 +5,7 @@
 a{
     cursor: pointer;
 }
+
+.bg-site{
+    background-color: #353b48;
+}
